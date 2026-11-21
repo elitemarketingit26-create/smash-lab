@@ -1,0 +1,37 @@
+{
+  "verified_on": "2026-11-03",
+  "source": "Cinque screenshot di recensioni Google forniti dal cliente",
+  "selection": "Testi integrali forniti dal cliente; cinque recensioni a cinque stelle, non voto medio del locale.",
+  "reviews": [
+    {
+      "author": "Manuel Notaro",
+      "text": "Mi sono sentito bene. I ragazzi di Smash Lab hanno proprio ricercato la qualità del prodotto, impeccabile. Ho mangiato un Oklahoma double smash e patatine con cheddar e bacon, insieme ad una birra piccola. Totale: 24,50€, un po’ caro secondo me. Voto: 8.5/10 per panino, 7/10 per le patatine. La proposta sfida un po’ la richiesta locale di Rimini, che a mio avviso riguarda più altro come pesce o piadine. Il locale è molto curato. Il personale è fatto da ragazzi con voglia di fare. La posizione è ottima.\n\nPro: Qualità del cibo super, ambiente tranquillo, servizio iper veloce\nContro: Prezzo, troppo alto secondo me",
+      "rating": 5,
+      "source": "https://www.google.com/maps?cid=4204788620813078760"
+    },
+    {
+      "author": "Emanuele Margini (idol)",
+      "text": "bella location, servizio ottimo, abbiamo aspettato circa una ventina di minuti per 5 hamburger quindi neanche troppo, prezzi forse leggermente alti ma sono completamente giustificati poichè il panino e le patatine sono veramente buonissimi. unica pecca, purtroppo, era che essendo pieni tutti i tavoli fuori ci siamo dovuti sedere dentro dove c’era l’aria condizionata spenta e faceva abbastanza caldo. Per il resto posto consigliatissimo e 5 stelle meritate perché si mangia veramente bene.",
+      "rating": 5,
+      "source": "https://www.google.com/maps?cid=4204788620813078760"
+    },
+    {
+      "author": "Manuel Romanelli",
+      "text": "Patatine e smash spaziali, veramente tutto buono e ci hanno servito anche velocemente.\nUnica pecca, non ho ben capito la scelta di mettere il cheddar sul fondo delle patatine, abbiamo comunque raschiato il fondo pur di mangiarlo, però avrei apprezzato fosse completamente sulle patatine.",
+      "rating": 5,
+      "source": "https://www.google.com/maps?cid=4204788620813078760"
+    },
+    {
+      "author": "Ilenia Ruscetti",
+      "text": "É la seconda volta che ceniamo allo smash Lab, come nella prima occasione siamo stati benissimo. I panini molto buoni, precisi come in foto, buonissimi sia quelli con la carne che con il pollo. Buone e particolari le salse che puoi aggiungere. Nota positiva anche per le patatine fritte, pienissime di cheddar e bacon. In generale un bel menu, bella scelta di panini. Sicuramente ritorneremo.",
+      "rating": 5,
+      "source": "https://www.google.com/maps?cid=4204788620813078760"
+    },
+    {
+      "author": "simone tontini",
+      "text": "Ho mangiato da questi ragazzi già in più occasioni, sia con consegna a domicilio che sul posto. Mi sono sempre trovato bene, mangio dei panini incredibili e sempre uguali, le patatine più buone che ci siano in giro. È consigliatissimo. Bravi ragazzi, continuate cosi",
+      "rating": 5,
+      "source": "https://www.google.com/maps?cid=4204788620813078760"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+[
+  {
+    "category": "Birra in bottiglia",
+    "items": [
+      {
+        "name": "Beck’s",
+        "prices": [
+          4
+        ]
+      },
+      {
+        "name": "Corona",
+        "prices": [
+          4
+        ]
+      },
+      {
+        "name": "Corona 0",
+        "prices": [
+          4
+        ]
+      },
+      {
+        "name": "Augustiner",
+        "prices": [
+          6
+        ]
+      },
+      {
+        "name": "Ichnusa",
+        "prices": [
+          4
+        ]
+      },
+      {
+        "name": "Ichnusa non filtrata",
+        "prices": [
+          4
+        ]
+      },
+      {
+        "name": "Ceres",
+        "prices": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Birra alla spina",
+    "items": [
+      {
+        "name": "Stella Artois",
+        "prices": [
+          3.5,
+          5
+        ]
+      },
+      {
+        "name": "Hoegarden",
+        "prices": [
+          4,
+          6
+        ]
+      },
+      {
+        "name": "Leffe Rouge",
+        "prices": [
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Acqua",
+    "items": [
+      {
+        "name": "Acqua naturale 1 L",
+        "prices": [
+          2.5
+        ]
+      },
+      {
+        "name": "Acqua naturale 0,5 L",
+        "prices": [
+          1.5
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cocktail",
+    "items": [
+      {
+        "name": "Spritz",
+        "prices": [
+          7
+        ]
+      },
+      {
+        "name": "Americano",
+        "prices": [
+          7
+        ]
+      },
+      {
+        "name": "Negroni",
+        "prices": [
+          7
+        ]
+      },
+      {
+        "name": "Vodka tonic",
+        "prices": [
+          7
+        ]
+      },
+      {
+        "name": "V. Grey Goose",
+        "prices": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Gin",
+    "items": [
+      {
+        "name": "Mare",
+        "prices": [
+          10
+        ]
+      },
+      {
+        "name": "Hendrick’s",
+        "prices": [
+          10
+        ]
+      },
+      {
+        "name": "Malfy Pompelmo",
+        "prices": [
+          10
+        ]
+      },
+      {
+        "name": "Bulldog",
+        "prices": [
+          9
+        ]
+      },
+      {
+        "name": "Gin base",
+        "prices": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Analcolici in bottiglia",
+    "items": [
+      {
+        "name": "Coca-Cola",
+        "prices": [
+          3.5
+        ]
+      },
+      {
+        "name": "Coca-Cola Zero",
+        "prices": [
+          3.5
+        ]
+      },
+      {
+        "name": "Fanta",
+        "prices": [
+          3.5
+        ]
+      },
+      {
+        "name": "Sprite",
+        "prices": [
+          3.5
+        ]
+      },
+      {
+        "name": "Tè pesca",
+        "prices": [
+          3
+        ]
+      },
+      {
+        "name": "Tè limone",
+        "prices": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Analcolici in lattina",
+    "items": [
+      {
+        "name": "Coca-Cola",
+        "prices": [
+          2.5
+        ]
+      },
+      {
+        "name": "Coca-Cola Zero",
+        "prices": [
+          2.5
+        ]
+      },
+      {
+        "name": "Fanta",
+        "prices": [
+          2.5
+        ]
+      },
+      {
+        "name": "Sprite",
+        "prices": [
+          2.5
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Analcolici alla spina",
+    "items": [
+      {
+        "name": "Coca-Cola",
+        "prices": [
+          2.5,
+          4
+        ]
+      }
+    ]
+  }
+]

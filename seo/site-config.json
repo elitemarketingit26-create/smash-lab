@@ -1,0 +1,17 @@
+{
+  "origin": "https://www.smashlab.it",
+  "ready_for_indexing": true,
+  "indexable_files": [
+    "index.html",
+    "menu.html",
+    "posizione.html",
+    "dentro-il-morso.html",
+    "faq.html"
+  ],
+  "pending": [
+    "conferma modalità di asporto",
+    "profilo Google e link breve",
+    "verifica sul deploy: cookie, funzioni hosting e tempi log; accordo hosting intestato per la società",
+    "verifica produzione e Search Console"
+  ]
+}
